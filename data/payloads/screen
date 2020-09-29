@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+{
+scrcpy
+} &>/dev/null
